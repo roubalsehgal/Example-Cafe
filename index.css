@@ -1,0 +1,58 @@
+.header{
+	display: flex;
+}
+.icon{
+	margin-left: 40px;
+}
+.outer_box{
+	border-style: solid;
+	border-color: #3197cf;
+	border-width: 6px; 
+}
+.logo{
+	margin-left: 40px;
+}
+.logo h1{
+	color: #3197cf;
+}
+#menu_list li{
+	display: inline;
+	margin-left: 15px;
+}
+#menu_list a{
+	font-size: 18px;
+}
+a:link{
+	color: #3197cf;
+}
+a:visited{
+	color: #3197cf;
+}
+a:hover{
+	color: #3197cf;
+}
+a:active{
+	color: #3197cf;
+}
+hr{
+	display: block;
+  	margin-top: 5px;
+  	margin-bottom: 15px;
+  	margin-left: 42px;
+  	margin-right: 42px;
+  	border-style: inset;
+  	border-width: 2px;
+}
+.body_block{
+	display: flex;
+	margin-left: 40px;
+}
+.body_block img{
+	border-radius: 20px;
+}
+.text-box{
+	margin-left: 15px;
+}
+#after-text{
+	margin-left: 55px;
+}
